@@ -8,7 +8,7 @@ I am interested in Software Development, Web Development, and IT Support. I enjo
 
 🎓 Education
 - B.Sc. in Computer Science and Engineering
-  United International University
+- United International University
 
 💻 Technical Skills
 - **Programming Languages:** Java, Python
